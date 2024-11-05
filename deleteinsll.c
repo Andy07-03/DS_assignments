@@ -2,7 +2,7 @@
 // Linked List 
 // Implement a single linked list and perform operation on it like 
 // Create, insert, delete and traversal 
-// Program B 
+// Program C
 // Delete an element in a Linked list 
 
 #include <stdio.h>
