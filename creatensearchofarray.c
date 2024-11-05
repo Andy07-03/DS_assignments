@@ -1,9 +1,3 @@
- // Assignment No. 1 
-// Array operation  
-// (Creation of an array and search a specific element in that array) 
-// Program A 
-// Creation of an array and search a specific element 
-
 #include<stdio.h> 
 void main() 
 { 
